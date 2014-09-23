@@ -40,9 +40,11 @@ Em frente à estação de metro Vila Lobos-Jaguaré e Parque Vila Lobos. O local
 Lembrando vaga é CLT ( salario + VR ~R$ 20,00 + Plano de Saúde + Férias + 13ro + 1/3 de férias )
 
 
-### 
+### ENVIE SEU CURRÍCULO
 
-Interessados mandem um email para: [vagasti+frontend@clickbus.com](mailto:vagasti+frontend@clickbus.com&subject=Frontend)
+Interessados mandem um email para: [vagasti+frontend@clickbus.com](mailto:vagasti+frontend@clickbus.com) com currículo, github e portfolio/site pessoal/trabalhos recentes
+
+---
 
 ### Um pouco mais sobre nós
 
