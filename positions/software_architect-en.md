@@ -46,16 +46,6 @@
 - Gearman
 - People and little projects management
 
-### Benefits (CLT and Others)
-- Transport card
-- Meal card
-- Medical insurance
-- Discounts in partner companies
-- Flexible schedules
-- Relaxed atmosphere
-- Happy hours
-- BBQ meetings
-- Dev Beach
 
 ## A little bit about us...
 
