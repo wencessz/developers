@@ -3,7 +3,7 @@
 ### Job Description
 
 > We have a pretty cool job to work in ClickBus, a startup with fast and global growth.
-> The post in question is for a full / senior Frontend Engineer profile. The main requirements are:
+> The post in question is for a full / senior Frontend Engineer profile.
 
 ### Requirements
 - Experience in SPAs creation
@@ -18,24 +18,12 @@
 - NodeJS
 - ModelCore
 
-### Benefits (CLT and Others)
-- Transport card
-- Meal card
-- Medical insurance
-- Discounts in partner companies
-- Flexible schedules
-- Relaxed atmosphere
-- Happy hours
-- BBQ meetings
-- Dev Beach
 
 ### Local
 
 Av. Queiroz Filho, 1700 - Vila Hamburguesa - São Paulo, SP
 
 In front of Villa Lobos-Jaguaré station and Villa Lobos park. The place is nice and cozy
-
-Remembering, it's a CLT vacancy (salary + meal card R$20 + medical insurance - vacation + 13rd + 1/3 vacation)
 
 CVs should be sent to: vagasti@clickbus.com
 
