@@ -31,7 +31,7 @@ Class CashMachine{
         }
       }
       if($valuesleft == $prevalue){ //if we check all values and anything has changed, this mean that is not a valid number
-        throw new InvalidArgumentException('Onpy accepts partible money. Input was: '.$money);
+        throw new InvalidArgumentException('Only accepts partible money. Input was: '.$money);
       }
     }
     return $return;
